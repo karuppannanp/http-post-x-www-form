@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.example</groupId>
-	<artifactId>http-post-x-www-form</artifactId>
+	<artifactId>http-post-x-www-form-urlencoded</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>http-post-x-www-form</name>
+	<name>http-post-x-www-form-urlencoded</name>
 	<description>Demo project for http-post-x-www-form-urlencoded in Spring Boot</description>
 
 	<parent>
